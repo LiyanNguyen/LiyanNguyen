@@ -1,9 +1,23 @@
-<h1 align="center">Hello there!👋, I'm Liyan Anajao</h1>
+<h1 align="center">👋 Hello there! I'm Liyan Anajao</h1>
 <h3 align="center">Frontend developer</h3>
 
 <br>
 
 ## My Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiyanNguyen&repo=Portfolio&theme=tokyonight&hide_border=true)](https://liyannguyen.github.io/Portfolio/)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiyanNguyen&repo=The-Coffee-House&theme=tokyonight&hide_border=true)](https://liyannguyen.github.io/The-Coffee-House/)
+&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiyanNguyen&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/LiyanNguyen/Portfolio)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiyanNguyen&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/LiyanNguyen/Portfolio)
+
+<br>
+
+
+## My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiyanNguyen&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -62,7 +76,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiyanNguyen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiyanNguyen&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p></p>
 <br>
@@ -85,8 +99,3 @@
     <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
   </a>
 </p>
-
-<br>
-
-## My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiyanNguyen)](https://github.com/anuraghazra/github-readme-stats)
