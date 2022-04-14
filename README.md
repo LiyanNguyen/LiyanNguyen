@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello there! I'm Liyan Anajao</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <br>
 
-## My Featured Projects
+## ⭐ Featured Projects
 <p>
   <a href="https://liyannguyen.github.io/Portfolio/" target="_blank">
     <img width="45%" src="https://user-images.githubusercontent.com/50958126/163338904-9fd26b2f-1dc4-40a8-b01b-d9a6be5894fb.png">
@@ -25,12 +25,12 @@
 
 <br>
 
-## My GitHub Stats
+## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiyanNguyen&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-## My Frontend Skills
+## 📝 Frontend Skills
 - Responsive Design
 - Modern UI/UX
 - Animations
@@ -38,7 +38,7 @@
 
 <br>
 
-## My Tools and Languages
+## ⚙️ Tools and Languages
 <p>
   <a href="#">
     <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/320px-Figma-logo.svg.png">
@@ -90,7 +90,7 @@
 <p></p>
 <br>
 
-## Currently Learning / Improving With
+## ✍️ Currently Learning / Improving With
 <p>
   <a href="#">
     <img height="40" src="https://lesscss.org/public/img/less_logo.png">
@@ -108,3 +108,15 @@
     <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
   </a>
 </p>
+
+<br>
+
+## 🤙 Contact Me
+✉️ Email: liyannguyenn@gmail.com
+
+🇸🇬 Mobile: +6583051317
+
+🇵🇭 Mobile: +639500900929
+
+
+
