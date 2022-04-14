@@ -6,20 +6,20 @@
 ## My Featured Projects
 <p>
   <a href="https://liyannguyen.github.io/Portfolio/" target="_blank">
-    <img width="450" src="https://user-images.githubusercontent.com/50958126/163338904-9fd26b2f-1dc4-40a8-b01b-d9a6be5894fb.png">
+    <img width="45%" src="https://user-images.githubusercontent.com/50958126/163338904-9fd26b2f-1dc4-40a8-b01b-d9a6be5894fb.png">
   </a>
   &nbsp;
   <a href="https://liyannguyen.github.io/The-Coffee-House/" target="_blank">
-    <img width="450" src="https://user-images.githubusercontent.com/50958126/163339476-a0096d74-a9f2-4dad-a6cd-d65d338b55d1.png">
+    <img width="45%" src="https://user-images.githubusercontent.com/50958126/163339476-a0096d74-a9f2-4dad-a6cd-d65d338b55d1.png">
   </a>
 </p>
 <p>
   <a href="https://liyannguyen.github.io/social-media-dashboard/" target="_blank">
-    <img width="450" src="https://user-images.githubusercontent.com/50958126/163339964-571aa00e-f84b-4540-a3cb-6589f629ede3.png">
+    <img width="45%" src="https://user-images.githubusercontent.com/50958126/163339964-571aa00e-f84b-4540-a3cb-6589f629ede3.png">
   </a>
   &nbsp;
   <a href="https://liyannguyen.github.io/Image-Gallery/" target="_blank">
-    <img width="450" src="https://user-images.githubusercontent.com/50958126/163340183-9df1b17a-8466-4e7e-91c4-a3d9cef0db63.png">
+    <img width="45%" src="https://user-images.githubusercontent.com/50958126/163340183-9df1b17a-8466-4e7e-91c4-a3d9cef0db63.png">
   </a>
 </p>
 
