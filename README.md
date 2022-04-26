@@ -90,7 +90,7 @@
 <p></p>
 <br>
 
-## ✍️ Currently Learning / Improving With
+## ✍️ Learning And Improving With
 <p>
   <a href="#">
     <img height="40" src="https://lesscss.org/public/img/less_logo.png">
@@ -108,6 +108,18 @@
     <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
   </a>
 </p>
+
+- LESS CSS
+- TypeScript
+- Vue.js 3
+- Svelte
+- Performance Tuning
+- Concurrency Handling
+- Caching Mechanisms
+- Browser Dev Tools
+- Browser Debugging and Testing
+- APIs for Frontend
+- Cloud Platform (e.g. AWS)
 
 <br>
 
