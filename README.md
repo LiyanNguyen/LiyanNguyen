@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there! I'm Liyan</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Frontend Web / Mobile Developer</h3>
 
 <br>
 
