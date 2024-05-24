@@ -1,34 +1,16 @@
 <h1 align="center">👋 Hello there! I'm Liyan</h1>
-<h3 align="center">Frontend Web / Mobile Developer</h3>
+<h3 align="center">Full Stack Web / Mobile Developer</h3>
 
 <br>
 
 ## ⭐ Sample Projects
 <p>
+  <a href="https://notey-fullstack.netlify.app" target="_blank">
+    <img width="45%" src="https://github.com/LiyanNguyen/LiyanNguyen/assets/50958126/7806aaef-1548-42f4-9444-db5d84cae6ec">
+  </a>
+  &nbsp;
   <a href="https://liyannguyen.github.io/Portfolio/" target="_blank">
     <img width="45%" src="https://user-images.githubusercontent.com/50958126/163338904-9fd26b2f-1dc4-40a8-b01b-d9a6be5894fb.png">
-  </a>
-  &nbsp;
-  <a href="https://liyannguyen.github.io/calculator-app/" target="_blank">
-    <img width="45%" src="https://liyannguyen.github.io/Portfolio/images/proj-2.png">
-  </a>
-</p>
-<p>
-  <a href="https://liyannguyen.github.io/todo-app/" target="_blank">
-    <img width="45%" src="https://liyannguyen.github.io/Portfolio/images/proj-4.png">
-  </a>
-  &nbsp;
-  <a href="https://liyannguyen.github.io/Image-Gallery/" target="_blank">
-    <img width="45%" src="https://user-images.githubusercontent.com/50958126/163340183-9df1b17a-8466-4e7e-91c4-a3d9cef0db63.png">
-  </a>
-</p>
-<p>
-  <a href="https://liyannguyen.github.io/time-tracking-dashboard/" target="_blank">
-    <img width="45%" src="https://liyannguyen.github.io/Portfolio/images/proj-5.png">
-  </a>
-  &nbsp;
-  <a href="https://liyannguyen.github.io/testimonials-grid-section/" target="_blank">
-    <img width="45%" src="https://liyannguyen.github.io/Portfolio/images/proj-6.png">
   </a>
 </p>
 
